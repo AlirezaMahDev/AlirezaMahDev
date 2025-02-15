@@ -1,6 +1,6 @@
-# alireza2125
+# AlirezaMahDev
 ## Alireza Mahdavi
-### telegram: [@alireza_2125](https://t.me/alireza_2125)
+### telegram: [@AlirezaMahDev](https://t.me/AlirezaMahDev)
  
 # 🚀 My knowledge and tools:
  - ## dotnet
