@@ -1,1 +1,3 @@
 Senior .NET Architect with 11+ years of experience building and operating complex, production‑grade systems. I design resilient microservices and real‑time platforms, lead backend and cross‑platform client development, and deliver secure solutions for finance, education and IoT domains. Open to senior engineering and architecture roles; remote or on‑site.
+
+https://AlirezaMahDev.github.io
